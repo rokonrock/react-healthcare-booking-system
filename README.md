@@ -134,3 +134,8 @@ npm run dev
 | `/api/payments`      | POST | Handle Stripe Payment |
 
 
+## Authors
+
+- [@rokonrock](https://github.com/rokonrock/)
+
+
